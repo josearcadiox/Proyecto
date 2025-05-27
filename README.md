@@ -45,5 +45,5 @@ A new Flutter project.
 
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/tuusuario/smart-home-control.git
-   cd smart-home-control
+   git clone https://github.com/tuusuario/proyecto.git
+   cd FINAL
